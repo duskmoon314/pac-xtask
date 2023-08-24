@@ -8,7 +8,7 @@ publish = false
 
 [dependencies]
 anyhow = "1.0"
-clap = { version = "4.1", features = ["derive"] }
+clap = { version = "4.4", features = ["derive"] }
 env_logger = "0.10"
 form = "0.11"
 log = "0.4"
